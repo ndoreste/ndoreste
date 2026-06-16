@@ -1,4 +1,4 @@
-# Hi, I'm Nauzet Doreste 👋
+# Hi, I'm Nauzet Doreste 
 
 **Junior Frontend Developer** focused on building clean, responsive and well-structured user interfaces with **HTML, CSS and JavaScript**.
 
@@ -6,7 +6,7 @@ I am currently building a professional frontend portfolio through practical proj
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,7 +16,7 @@ I am currently building a professional frontend portfolio through practical proj
 
 ---
 
-## 🎯 Professional Focus
+## Professional Focus
 
 - Building responsive layouts with semantic HTML and CSS
 - Creating clean UI components with good spacing, typography and visual hierarchy
@@ -26,7 +26,7 @@ I am currently building a professional frontend portfolio through practical proj
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### [Personal Portfolio HTML/CSS](https://github.com/ndoreste/personal-portfolio-html-css)
 Personal portfolio website built with HTML and CSS to showcase frontend learning progress and visual design approach.
@@ -48,7 +48,7 @@ Collection of JavaScript exercises focused on logic building, problem solving an
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - JavaScript applied to real projects
 - Responsive design and accessibility
@@ -58,7 +58,7 @@ Collection of JavaScript exercises focused on logic building, problem solving an
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Nauzet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndoreste&show_icons=true&theme=github_dark&hide_border=true)
 
