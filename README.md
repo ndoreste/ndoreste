@@ -1,4 +1,4 @@
-# Hola, soy Nauzet Doreste 👋
+# Hola, soy Nauzet Doreste 
 
 Profesional con más de 20 años de experiencia laboral en distintos sectores, actualmente en transición hacia la administración de sistemas, la automatización, la ciberseguridad y la IA aplicada mediante formación técnica y proyectos propios.
 
