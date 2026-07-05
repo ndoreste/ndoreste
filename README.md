@@ -128,29 +128,7 @@ Mis proyectos públicos reflejan ese camino: laboratorios de automatización, ec
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ndoreste&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020403&title_color=00ff88&icon_color=f8ff3d&text_color=d8ffe9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndoreste&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020403&title_color=00ff88&text_color=d8ffe9" alt="Top languages" />
-</p>
-
----
-
-## Principios de publicación
-
-- No publicar secretos, tokens, credenciales ni datos privados.
-- Documentar decisiones técnicas de forma clara y verificable.
-- Separar ejemplos públicos de configuraciones reales.
-- Priorizar aprendizaje práctico, seguridad y mejora continua.
-
----
-
 <p align="center">
   <strong>Construyendo proyectos reales para aprender, documentar y avanzar hacia tecnología.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ndoreste">GitHub @ndoreste</a>
 </p>
 
