@@ -1,0 +1,59 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#11251d"/>
+      <stop offset="45%" stop-color="#07110e"/>
+      <stop offset="100%" stop-color="#020403"/>
+    </radialGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00ff88"/>
+      <stop offset="0.5" stop-color="#f8ff3d"/>
+      <stop offset="1" stop-color="#ff8a00"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0  0 0 0 0 1  0 0 0 0 .55  0 0 0 .9 0" result="glow"/>
+      <feBlend in="SourceGraphic" in2="glow" mode="screen"/>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#1aff8c" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)"/>
+
+  <g opacity="0.45">
+    <path d="M0 318C175 260 253 374 421 303C579 236 651 114 819 150C980 184 1043 308 1280 241" stroke="#00ff88" stroke-width="2" stroke-opacity="0.35"/>
+    <path d="M0 346C221 270 309 414 502 329C664 258 736 137 901 172C1047 203 1117 294 1280 263" stroke="#f8ff3d" stroke-width="1.5" stroke-opacity="0.2"/>
+  </g>
+
+  <g opacity="0.55" filter="url(#glow)">
+    <circle cx="184" cy="100" r="4" fill="#00ff88"/>
+    <circle cx="1090" cy="92" r="4" fill="#f8ff3d"/>
+    <circle cx="1024" cy="320" r="3" fill="#00ff88"/>
+    <circle cx="260" cy="306" r="3" fill="#ff8a00"/>
+    <path d="M184 100H312V162H455" stroke="#00ff88" stroke-width="2" stroke-opacity="0.55"/>
+    <path d="M1090 92H992V150H842" stroke="#f8ff3d" stroke-width="2" stroke-opacity="0.45"/>
+    <path d="M260 306H390V252H520" stroke="#ff8a00" stroke-width="2" stroke-opacity="0.38"/>
+    <path d="M1024 320H890V270H758" stroke="#00ff88" stroke-width="2" stroke-opacity="0.45"/>
+  </g>
+
+  <g transform="translate(80 74)">
+    <rect x="0" y="0" width="1120" height="272" rx="28" fill="#050806" fill-opacity="0.74" stroke="url(#neon)" stroke-width="2"/>
+    <rect x="28" y="30" width="6" height="212" fill="#00ff88" filter="url(#glow)"/>
+    <text x="62" y="72" fill="#00ff88" font-family="Consolas, Monaco, monospace" font-size="24" letter-spacing="3">ND<span fill="#f8ff3d">//</span>AI_AUTOMATION_CYBERSEC</text>
+    <text x="62" y="148" fill="#ffffff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">Nauzet Doreste</text>
+    <text x="62" y="198" fill="#d8ffe9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27">Applied AI · Automation · Agents · Systems · Cybersecurity</text>
+    <text x="62" y="236" fill="#9cffc8" font-family="Consolas, Monaco, monospace" font-size="20">building documented labs with n8n, Docker, APIs and security-first workflows</text>
+
+    <g transform="translate(900 56)" opacity="0.95" filter="url(#glow)">
+      <path d="M80 0L150 42V126L80 168L10 126V42L80 0Z" stroke="url(#neon)" stroke-width="4" fill="#06120d"/>
+      <path d="M54 76C54 57 66 44 80 44C94 44 106 57 106 76V91H116V129H44V91H54V76Z" stroke="#00ff88" stroke-width="5" fill="none"/>
+      <path d="M72 108H88M80 108V121" stroke="#f8ff3d" stroke-width="5" stroke-linecap="round"/>
+      <path d="M30 40L8 28M130 40L152 28M30 128L8 140M130 128L152 140" stroke="#ff8a00" stroke-width="3" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <text x="32" y="394" fill="#00ff88" fill-opacity="0.35" font-family="Consolas, Monaco, monospace" font-size="16">&gt; profile README initialized · ethical learning · public documentation · no secrets</text>
+</svg>

@@ -1,137 +1,165 @@
-# Hola, soy Nauzet Doreste 
+<p align="center">
+  <img src="assets/cyber-banner.svg" alt="Nauzet Doreste · Applied AI, Automation, Agents, Systems and Cybersecurity" width="100%" />
+</p>
 
-Profesional con más de 20 años de experiencia laboral en distintos sectores, actualmente en transición hacia la administración de sistemas, la automatización, la ciberseguridad y la IA aplicada mediante formación técnica y proyectos propios.
+<h1 align="center">Hola, soy Nauzet Doreste</h1>
 
-Actualmente desarrollo proyectos de IA aplicada, automatización con n8n, ecosistemas de agentes, Docker, APIs y sistemas documentados públicamente en GitHub.
+<p align="center">
+  <strong>IA aplicada · Automatización · Agentes · Sistemas · Ciberseguridad</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ndoreste?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-proyectos_documentados-00ff88?style=for-the-badge&logo=github&logoColor=black" alt="Portfolio" />
+  </a>
+  <img src="https://img.shields.io/badge/En_formación-ASIR_+_Ciberseguridad-f8ff3d?style=for-the-badge&logo=linux&logoColor=black" alt="ASIR y Ciberseguridad" />
+  <img src="https://img.shields.io/badge/Focus-AI_Automation_&_Security-ff8a00?style=for-the-badge&logo=probot&logoColor=black" alt="AI Automation and Security" />
+</p>
+
+---
+
+## Sobre mí
+
+Profesional con más de **20 años de experiencia laboral en distintos sectores**, actualmente en transición hacia tecnología mediante formación técnica y proyectos propios documentados públicamente.
+
+Estoy construyendo una base práctica en **administración de sistemas, automatización, IA aplicada, integraciones API, Docker y ciberseguridad**, con foco en aprender creando laboratorios reales, documentados y seguros.
+
+```txt
+> perfil_actual
+  rol: transición profesional hacia tecnología
+  foco: IA aplicada + automatización + sistemas + ciberseguridad
+  método: proyectos propios, documentación pública y mejora continua
+  principio: publicar sin secretos, con contexto técnico y enfoque security-first
+```
 
 ---
 
 ## Enfoque actual
 
 - IA aplicada a procesos reales y productividad técnica.
-- Automatización de workflows con n8n.
+- Automatización de workflows con **n8n**.
 - Ecosistemas de agentes y asistentes conectados a herramientas.
-- Docker, APIs, integraciones y documentación técnica.
-- Administración de sistemas y soporte IT en formación.
-- Ciberseguridad defensiva en formación.
+- Docker, APIs, integraciones y despliegues básicos en VPS.
+- Administración de sistemas, Linux y soporte IT en formación.
+- Ciberseguridad defensiva, laboratorios y documentación técnica.
 
 ---
 
-## Objetivo profesional
+## Stack y herramientas
 
-Evolucionar profesionalmente hacia roles relacionados con **IA aplicada**, **automatización**, **sistemas**, **soporte IT**, **integraciones API** y **ciberseguridad en formación**, combinando experiencia laboral previa, formación técnica y proyectos propios documentados de forma pública.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,github,git,js,html,css,mongodb,nodejs" alt="Tech stack" />
+</p>
 
----
-
-## Actualmente construyendo
-
-- **AI Agent Ecosystem**: documentación de un ecosistema multiagente con Docker, gateways de mensajería, APIs y enfoque security-first.
-- **n8n Automation Lab**: laboratorio público de workflows n8n anonimizados, capturas reales revisadas, patrones API y documentación segura.
-- Automatizaciones personales y flujos de trabajo con aprobación manual.
-- Portfolio técnico orientado a IA aplicada, agentes, sistemas y ciberseguridad.
-- Proyectos base de Python, SQL y JavaScript para reforzar lógica, scripting y fundamentos técnicos.
-
----
-
-## Formación actual
-
-**ASIR de Alto Rendimiento**  
-ThePower Prometeo  
-Mayo 2025 - Junio 2027  
-En curso
-
-**Máster en Ciberseguridad**  
-ThePower Prometeo  
-Mayo 2025 - Junio 2027  
-En curso
-
----
-
-## Tecnologías y herramientas
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-111827?style=flat-square&logo=fastapi&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/LLM_Agents-111827?style=flat-square&logo=openai&logoColor=f8ff3d" />
+  <img src="https://img.shields.io/badge/Security_First-111827?style=flat-square&logo=hackthebox&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/Documentation-111827?style=flat-square&logo=readthedocs&logoColor=ffffff" />
+</p>
 
 ---
 
 ## Proyectos principales
 
-### [AI Agent Ecosystem](https://github.com/ndoreste/ai-agent-ecosystem)
-
-Portfolio case study que documenta un ecosistema multiagente con Docker, gateways de mensajería, APIs, proveedores LLM y documentación orientada a seguridad.
-
-Este proyecto muestra:
-
-- Diseño de arquitectura para agentes de IA.
-- Integraciones con Telegram y Discord.
-- Patrones Docker y configuración con `env.example`.
-- Documentación de flujos, roles de agentes y seguridad.
-- Casos de estudio anonimizados basados en uso real.
-
-### [n8n Automation Lab](https://github.com/ndoreste/n8n-automation-lab)
-
-Laboratorio público de automatizaciones n8n con workflows anonimizados, capturas revisadas, patrones API y documentación security-first.
-
-Este proyecto muestra:
-
-- Diseño de workflows n8n.
-- Automatización de contenido, alertas y procesos.
-- Separación entre ejemplos públicos y credenciales reales.
-- Uso de placeholders, `env.example` y buenas prácticas de publicación.
-- Documentación de decisiones técnicas y aprendizajes.
-
----
-
-## Proyectos técnicos secundarios
-
-### [Interactive Test Platform](https://github.com/ndoreste/interactive-test-platform)
-
-Plataforma interactiva para practicar tests de ASIR con HTML, CSS y JavaScript. Proyecto útil para reforzar contenidos técnicos, lógica de interfaz y aprendizaje modular.
-
-### [Python Katas Practice](https://github.com/ndoreste/python-katas-practice)
-
-Ejercicios de Python orientados a lógica, fundamentos de scripting y aprendizaje progresivo para automatización.
-
-### [SQL Practice Project](https://github.com/ndoreste/sql-practice-project)
-
-Práctica de SQL centrada en consultas relacionales, filtrado de datos y fundamentos de bases de datos.
-
-### [JavaScript Katas Practice](https://github.com/ndoreste/javascript-katas-practice)
-
-Ejercicios de JavaScript para reforzar lógica, fundamentos del lenguaje y resolución de problemas.
-
-### [Personal Portfolio HTML/CSS](https://github.com/ndoreste/personal-portfolio-html-css)
-
-Proyecto inicial de portfolio HTML/CSS conservado como parte de mi ruta de aprendizaje frontend.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI Agent Ecosystem</h3>
+      <p>Documentación de un ecosistema multiagente con Docker, gateways de mensajería, APIs, proveedores LLM y enfoque security-first.</p>
+      <ul>
+        <li>Arquitectura de agentes de IA.</li>
+        <li>Integraciones con Telegram y Discord.</li>
+        <li>Patrones Docker y <code>env.example</code>.</li>
+        <li>Casos de estudio anonimizados.</li>
+      </ul>
+      <p><a href="https://github.com/ndoreste/ai-agent-ecosystem">Ver repositorio →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>n8n Automation Lab</h3>
+      <p>Laboratorio público de automatizaciones n8n con workflows anonimizados, patrones API y documentación segura.</p>
+      <ul>
+        <li>Workflows n8n documentados.</li>
+        <li>Automatización de contenido, alertas y procesos.</li>
+        <li>Separación entre ejemplos públicos y credenciales reales.</li>
+        <li>Buenas prácticas de publicación.</li>
+      </ul>
+      <p><a href="https://github.com/ndoreste/n8n-automation-lab">Ver repositorio →</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Áreas de aprendizaje
+## Laboratorios y repos secundarios
 
-- Automatización con n8n.
-- IA aplicada y agentes.
-- Docker y despliegues básicos.
-- APIs e integraciones.
-- Linux y administración de sistemas.
-- Scripting con Python.
-- SQL y bases de datos.
-- Ciberseguridad defensiva en formación.
-- Documentación técnica pública y segura.
+| Proyecto | Área | Qué demuestra |
+|---|---|---|
+| [Interactive Test Platform](https://github.com/ndoreste/interactive-test-platform) | ASIR / JavaScript | Plataforma interactiva para practicar tests y reforzar lógica de interfaz. |
+| [Python Katas Practice](https://github.com/ndoreste/python-katas-practice) | Python | Fundamentos de scripting, lógica y automatización. |
+| [SQL Practice Project](https://github.com/ndoreste/sql-practice-project) | Bases de datos | Consultas relacionales, filtrado de datos y fundamentos SQL. |
+| [JavaScript Katas Practice](https://github.com/ndoreste/javascript-katas-practice) | JavaScript | Resolución de problemas y práctica progresiva del lenguaje. |
+| [Personal Portfolio HTML/CSS](https://github.com/ndoreste/personal-portfolio-html-css) | Frontend inicial | Evolución de aprendizaje y fundamentos visuales. |
+
+---
+
+## Formación actual
+
+| Formación | Centro | Estado |
+|---|---|---|
+| ASIR de Alto Rendimiento | ThePower Prometeo | En curso · 2025–2027 |
+| Máster en Ciberseguridad | ThePower Prometeo | En curso · 2025–2027 |
+
+---
+
+## Áreas que estoy desarrollando
+
+```mermaid
+mindmap
+  root((Nauzet))
+    IA aplicada
+      Agentes
+      LLM workflows
+      APIs
+    Automatización
+      n8n
+      Integraciones
+      Docker
+    Sistemas
+      Linux
+      Soporte IT
+      VPS
+    Ciberseguridad
+      Labs
+      Hardening
+      Documentación segura
+```
 
 ---
 
 ## GitHub Stats
 
-![Nauzet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndoreste&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndoreste&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ndoreste&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=020403&title_color=00ff88&icon_color=f8ff3d&text_color=d8ffe9" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndoreste&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=020403&title_color=00ff88&text_color=d8ffe9" alt="Top languages" />
+</p>
 
 ---
 
-## Contacto
+## Principios de publicación
 
-- GitHub: [@ndoreste](https://github.com/ndoreste)
-- LinkedIn: Próximamente
+- No publicar secretos, tokens, credenciales ni datos privados.
+- Documentar decisiones técnicas de forma clara y verificable.
+- Separar ejemplos públicos de configuraciones reales.
+- Priorizar aprendizaje práctico, seguridad y mejora continua.
+
+---
+
+<p align="center">
+  <strong>Construyendo proyectos reales para aprender, documentar y avanzar hacia tecnología.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ndoreste">GitHub @ndoreste</a>
+</p>
