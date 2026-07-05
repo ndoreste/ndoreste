@@ -20,15 +20,18 @@
 
 ## Sobre mí
 
-Profesional con más de **20 años de experiencia laboral en distintos sectores**, actualmente en transición hacia tecnología mediante formación técnica y proyectos propios documentados públicamente.
+Soy estudiante de **2º de ASIR** y actualmente curso también un **Máster en Ciberseguridad** en **ThePower Prometeo**. Mi objetivo es consolidar una base técnica sólida en sistemas, redes, Linux, automatización y seguridad, y continuar después con una **especialización en Inteligencia Artificial**.
 
-Estoy construyendo una base práctica en **administración de sistemas, automatización, IA aplicada, integraciones API, Docker y ciberseguridad**, con foco en aprender creando laboratorios reales, documentados y seguros.
+De forma autodidacta estoy profundizando en **automatizaciones con n8n**, integraciones mediante APIs y aplicación práctica de **IA agéntica**: agentes conectados a herramientas, flujos de trabajo automatizados y sistemas documentados con enfoque seguro.
+
+Mis proyectos públicos reflejan ese camino: laboratorios de automatización, ecosistemas de agentes, prácticas de Python, SQL y JavaScript, y documentación orientada a aprender construyendo proyectos reales.
 
 ```txt
 > perfil_actual
-  rol: transición profesional hacia tecnología
-  foco: IA aplicada + automatización + sistemas + ciberseguridad
-  método: proyectos propios, documentación pública y mejora continua
+  formación: 2º ASIR + Máster en Ciberseguridad · ThePower Prometeo
+  siguiente_paso: especialización en Inteligencia Artificial
+  foco: sistemas + ciberseguridad + automatización + IA agéntica
+  práctica: n8n, APIs, Docker, Linux, Python y documentación técnica
   principio: publicar sin secretos, con contexto técnico y enfoque security-first
 ```
 
@@ -108,8 +111,9 @@ Estoy construyendo una base práctica en **administración de sistemas, automati
 
 | Formación | Centro | Estado |
 |---|---|---|
-| ASIR de Alto Rendimiento | ThePower Prometeo | En curso · 2025–2027 |
-| Máster en Ciberseguridad | ThePower Prometeo | En curso · 2025–2027 |
+| 2º de ASIR | ThePower Prometeo | En curso |
+| Máster en Ciberseguridad | ThePower Prometeo | En curso |
+| Especialización en Inteligencia Artificial | Próximo paso formativo | Planificada tras finalizar la etapa actual |
 
 ---
 
