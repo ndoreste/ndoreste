@@ -1,8 +1,8 @@
+<h1 align="center">Hola, soy Nauzet Doreste</h1>
+
 <p align="center">
   <img src="assets/cyber-banner.svg" alt="Nauzet Doreste · Applied AI, Automation, Agents, Systems and Cybersecurity" width="100%" />
 </p>
-
-<h1 align="center">Hola, soy Nauzet Doreste</h1>
 
 <p align="center">
   <strong>IA aplicada · Automatización · Agentes · Sistemas · Ciberseguridad</strong>
@@ -115,26 +115,12 @@ Estoy construyendo una base práctica en **administración de sistemas, automati
 
 ## Áreas que estoy desarrollando
 
-```mermaid
-mindmap
-  root((Nauzet))
-    IA aplicada
-      Agentes
-      LLM workflows
-      APIs
-    Automatización
-      n8n
-      Integraciones
-      Docker
-    Sistemas
-      Linux
-      Soporte IT
-      VPS
-    Ciberseguridad
-      Labs
-      Hardening
-      Documentación segura
-```
+| Área | Estoy practicando |
+|---|---|
+| IA aplicada | agentes, workflows con LLMs e integraciones API |
+| Automatización | n8n, Docker, APIs y procesos documentados |
+| Sistemas | Linux, soporte IT, VPS y fundamentos de administración |
+| Ciberseguridad | laboratorios, hardening y documentación segura |
 
 ---
 
