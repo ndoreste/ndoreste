@@ -51,7 +51,7 @@ Solo incluyo lo que se puede ver en los proyectos de arriba.
 ## Ahora mismo
 
 - 2º de ASIR y Máster en Ciberseguridad (en curso).
-- Miembro de la comunidad **Imperio Agéntico**, centrada en automatización y agentes de IA.
+- Miembro de [**Imperio Agéntico**](https://www.skool.com/imperio/about), comunidad hispanohablante de IA aplicada. Allí aprendo a construir agentes de IA (Claude Code, Hermes, n8n), automatizaciones de procesos reales y proyectos con *vibe coding*, en sesiones en directo semanales y revisando flujos con otros miembros. El enfoque es pasar de la idea a la implementación.
 - Siguiente paso: especialización en Inteligencia Artificial.
 
 <details>
